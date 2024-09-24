@@ -3,7 +3,6 @@ package com.company;
 import java.util.Scanner;
 
 class mathsMensuration {
-
     double length,breadth,radius,height,volume,side,base,area;
     Scanner sc =new Scanner(System.in);
     public void rectangle(){
@@ -98,4 +97,3 @@ public class Mensuration {
 
     }
 }
-

@@ -1,4 +1,4 @@
-//package com.company;
+package com.company;
 import java.util.*;
 // currency exchanger program
 class Currency{
